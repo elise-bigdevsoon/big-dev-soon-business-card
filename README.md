@@ -24,7 +24,7 @@ Build a beautiful website that showcases your skills and personality as a develo
 ## Guidelines
 1. Aim for pixel-perfect implementation of the design. Use tools like [PixelParallel](https://chrome.google.com/webstore/detail/pixelparallel-by-htmlburg/iffnoibnepbcloaaagchjonfplimpkob?hl=en) or other techniques to ensure accuracy.
 2. Write clean and efficient code. Use extensions like [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) and [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) for formatting and errors, and consider using [GitHub Copilot](https://github.com/features/copilot) and [VSCode](https://code.visualstudio.com/) as your code editor.
-Follow a Git workflow. Keep your commits small and descriptive, organize your work into separate branches, and use pull requests for code reviews.
+3. Follow a Git workflow. Keep your commits small and descriptive, organize your work into separate branches, and use pull requests for code reviews.
 
 Remember, the cleaner and more accurate your code is, the faster you can finish and the better you'll feel about your work. So let's make it happen! 💡
 
