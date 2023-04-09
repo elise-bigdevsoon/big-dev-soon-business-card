@@ -11,11 +11,11 @@ Build a beautiful website that showcases your skills and personality as a develo
 
 ## Requirements
 - [ ] Create a full-page background with a centered card layout.
-- [ ] Add a user contact section with email, phone, and clickable social icons. on the left of the card.
+- [ ] Add a user contact section on the left of the card with email, phone, and clickable social icons.
 - [ ] Add a user image in the center of the card.
-- [ ] Add a user info section with name, position, location, description, and technologies on the right of the card.
-Implement absolute-positioned shapes.
-- [ ] Add animations to improve user experience, e.g. image loading skeleton animation or some fade-in, go wild!
+- [ ] Add a user info section with name on the right of the card, position, location, description, and technologies.
+- [ ] Implement absolute-positioned shapes to improve the layout.
+- [ ] Enhance user experience with animations, such as image loading skeleton animation or fade-in effects.
 
 ## Deployment
 Once you are ready with the project and unlocked the Complete step, you can try deploying the project to Vercel, Netlify, or GitHub Pages. One important thing to remember is that we've added a `<bds />` tag to the `index.html` file and will do a check against it while trying to add a Project URL. Don't forget it! 😊
