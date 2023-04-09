@@ -10,11 +10,12 @@ Build a beautiful website that showcases your skills and personality as a develo
 - Have a strong desire to learn and improve your skills as a Big Developer. 🚀
 
 ## Requirements
-- [ ] The website looks similar to the design and is implemented as a Desktop version only.
-- [ ] Icons should be clickable with a hover effect and redirect users to external pages in a new tab.
-- [ ] Users can hover over and click on the email and it'll have the proper `mailto` link.
-- [ ] Users can hover over and click on the phone and it'll have the proper `tel` link.
-- [ ] Add animations, we recommend a Fade In when the website is loaded and a skeleton animation for loading the user's image.
+- [ ] Create a full-page background with a centered card layout.
+- [ ] Add a user contact section with email, phone, and clickable social icons. on the left of the card.
+- [ ] Add a user image in the center of the card.
+- [ ] Add a user info section with name, position, location, description, and technologies on the right of the card.
+Implement absolute-positioned shapes.
+- [ ] Add animations to improve user experience, e.g. image loading skeleton animation or some fade-in, go wild!
 
 ## Deployment
 Once you are ready with the project and unlocked the Complete step, you can try deploying the project to Vercel, Netlify, or GitHub Pages. One important thing to remember is that we've added a `<bds />` tag to the `index.html` file and will do a check against it while trying to add a Project URL. Don't forget it! 😊
