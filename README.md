@@ -1,11 +1,15 @@
 # Business Card Project
-Create a professional portfolio website using the Business Card project of [BigDevSoon](https://bigdevsoon.me/). Build a beautiful website that showcases your skills and personality as a developer. Challenge yourself to stand out and impress potential employers or clients.
+
+Hello to [BigDevSoon](https://bigdevsoon.me/) 👋. 
+
+Build a beautiful website that showcases your skills and personality as a developer. Challenge yourself to stand out and impress potential employers or clients.
 
 ## Prerequisites
-You can choose any technologies of your own preference, the same applies to any tools, libraries, frameworks and everything related. We want you to have fun building this project and composing a technology stack that plays well with your taste.
+- Start this project in our [App](https://app.bigdevsoon.me/) before you dive in. 👀
+- Choose the technologies, tools, and libraries that best suit your taste and have fun building this project. 😊
+- Have a strong desire to learn and improve your skills as a Big Developer. 🚀
 
 ## Requirements
-
 - [ ] The website looks similar to the design and is implemented as a Desktop version only.
 - [ ] Icons should be clickable with a hover effect and redirect users to external pages in a new tab.
 - [ ] Users can hover over and click on the email and it'll have the proper `mailto` link.
