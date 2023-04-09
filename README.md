@@ -1,5 +1,5 @@
 # Business Card Project
-Create a professional portfolio website using the Business Card project of (BigDevSoon)[https://bigdevsoon.me/]. Build a beautiful website that showcases your skills and personality as a developer. Challenge yourself to stand out and impress potential employers or clients.
+Create a professional portfolio website using the Business Card project of [BigDevSoon](https://bigdevsoon.me/). Build a beautiful website that showcases your skills and personality as a developer. Challenge yourself to stand out and impress potential employers or clients.
 
 ## Prerequisites
 You can choose any technologies of your own preference, the same applies to any tools, libraries, frameworks and everything related. We want you to have fun building this project and composing a technology stack that plays well with your taste.
