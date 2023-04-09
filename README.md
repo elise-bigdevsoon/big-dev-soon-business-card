@@ -12,7 +12,6 @@ Build a beautiful website that showcases your skills and personality as a develo
 6. Begin coding, either using the Freerun mode to work on each card individually or the Speedrun mode to work at your own pace. Be sure to follow the guidelines outlined below.
 7. Have a strong desire to learn and improve your skills as a Big Developer. 🚀
 
-
 ## Requirements
 - [ ] Create a full-page background with a centered card layout.
 - [ ] Add a user contact section on the left of the card with email, phone, and clickable social icons.
@@ -31,7 +30,6 @@ So let's make it happen! 💡
 
 ## Submitting project
 Once you've completed the project and unlocked the Submit step in our app, it's time to deploy your project to [Vercel](https://vercel.com/), [Netlify](https://www.netlify.com/), or [GitHub Pages](https://pages.github.com/) (if you haven't done so already). Keep in mind that we've added a `<bds />` tag to the `index.html` file, and we'll check for it when you submit your Project URL. So don't forget to include it! You'll also need to provide the project title and the primary frontend technology used. Good luck!
-
 
 ## We're in Beta and getting better every day!
 Hey there, Big Developer! We wanted to take a moment to thank you for participating in our project and helping us improve our platform. We're always looking for ways to make our app better, so if you have any feedback or suggestions, please feel free to let us know.
