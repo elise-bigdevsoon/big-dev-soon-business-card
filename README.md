@@ -19,7 +19,7 @@ Create a simple yet stunning website to showcase your skills and personality as 
 - [ ] Create a full-page background with a centered card layout.
 - [ ] Add a user contact section on the left of the card with email, phone, and clickable social icons.
 - [ ] Add a user image in the center of the card.
-- [ ] Add a user info section with the name on the right of the card, position, location, description, and technologies.
+- [ ] Add a user info section on the right of the card with name, position, location, description, and technologies.
 - [ ] Implement absolute-positioned shapes to improve the layout.
 - [ ] Enhance user experience with animations, such as image-loading skeleton animation or fade-in effects.
 
