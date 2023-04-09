@@ -1,7 +1,7 @@
 # Business Card Project
-Build a beautiful website that showcases your skills and personality as a developer. Challenge yourself to stand out and impress potential employers or clients.
-
 Hello to [BigDevSoon](https://bigdevsoon.me/) 👋
+
+Build a beautiful website that showcases your skills and personality as a developer. Challenge yourself to stand out and impress potential employers or clients.
 
 ## How to start
 1. Start the project in our [App](https://app.bigdevsoon.me/) to get a feel for it. 
