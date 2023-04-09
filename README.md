@@ -1,13 +1,16 @@
 # Business Card Project
+Build a beautiful website that showcases your skills and personality as a developer. Challenge yourself to stand out and impress potential employers or clients.
 
 Hello to [BigDevSoon](https://bigdevsoon.me/) 👋. 
 
-Build a beautiful website that showcases your skills and personality as a developer. Challenge yourself to stand out and impress potential employers or clients.
+## How to start
+1. Start this project in our [App](https://app.bigdevsoon.me/) before you dive in. 
+2. Familiarize yourself with the Prerequisites and Requirements listed in this README.
+3. In the [project's page](https://app.bigdevsoon.me/projects/business-card), review the design images and import the `.fig` file into Figma to gain a better understanding of the layout and design elements.
+4. Choose your preferred technology stack and overwrite this starter repository as needed to set up your project structure.
+5. Begin coding, either using the Freerun mode to work on each card individually or the Speedrun mode to work at your own pace. Be sure to follow the Guidelines section outlined below.
+6. Have a strong desire to learn and improve your skills as a Big Developer. 🚀
 
-## Prerequisites
-- Start this project in our [App](https://app.bigdevsoon.me/) before you dive in. 👀
-- Choose the technologies, tools, and libraries that best suit your taste and have fun building this project. 😊
-- Have a strong desire to learn and improve your skills as a Big Developer. 🚀
 
 ## Requirements
 - [ ] Create a full-page background with a centered card layout.
