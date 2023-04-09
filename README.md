@@ -4,9 +4,9 @@ Build a beautiful website that showcases your skills and personality as a develo
 Hello to [BigDevSoon](https://bigdevsoon.me/) 👋
 
 ## How to start
-1. Start this project in our [App](https://app.bigdevsoon.me/) before you dive in. 
-2. Familiarize yourself with the requirements listed below in this README.
-3. On the [project's page](https://app.bigdevsoon.me/projects/business-card), review the design images and import the `.fig` file into Figma to gain a better understanding of the layout and design elements.
+1. Start the project in our [App](https://app.bigdevsoon.me/) to get a feel for it. 
+2. Review the requirements listed below in this README.
+3. Review the design images on the [project's page](https://app.bigdevsoon.me/projects/business-card) and import the `.fig` file into Figma to understand the layout and design elements.
 4. Clone this repository or use GitHub codespaces to set up the project environment.
 5. Choose your preferred technology stack and overwrite repository files as needed to set up your project structure. We included the `assets` folder for convenience, extracted from the design.
 6. Begin coding, either using the Freerun mode to work on each card individually or the Speedrun mode to work at your own pace. Be sure to follow the guidelines outlined below.
