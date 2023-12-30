@@ -1,21 +1,96 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <bds />
-    <link rel="stylesheet" href="index.css" />
-    <script src="index.js" defer></script>
-    <title>BigDevSoon - Business Card Project</title>
-  </head>
-  <body>
-    <!-- Place below is for your own exciting code -->
-    <p>Time to write some code! 👀</p>
-    <!-- Change the [ME] part to your own name/GitHub link -->
-    <div class="footer">
-      <a href="https://bigdevsoon.me" target="_blank" rel="noopener noreferrer"
-        >Project by BigDevSoon</a
-      >
-      |
-      <span>Built with ❤️ by [ME]</span>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Business Card</title>
+    <style>
+        body {
+            background-color: #FFEBEE; /* Light pink color using hex code */
+        }
+
+        /* Added the <img> tag for the user image */
+        img {
+            display: block;
+            margin: auto; /* Center the image */
+            border-radius: 50%; /* Make the image round */
+            animation: slide 2s ease-in-out infinite; /* Sliding animation */
+        }
+
+        h1, p, bds, .user-contact-section, .user-info-section, .card/absolute-positioned-shapes {
+            text-align: center; /* Center-align text and the custom <bds /> tag */
+        }
+
+        @keyframes slide {
+            0% {
+                transform: translateX(0);
+            }
+            50% {
+                transform: translateX(50px); /* Slide 50 pixels to the right */
+            }
+            100% {
+                transform: translateX(0);
+            }
+        }
+
+        /* Added styles for card/absolute-positioned-shapes */
+        .card/absolute-positioned-shapes {
+            position: relative;
+            width: 300px; /* Adjust width as needed */
+            height: 200px; /* Adjust height as needed */
+        }
+
+        .shape1, .shape2 {
+            position: absolute;
+            background-color: #3498db; /* Example color, you can change this */
+        }
+
+        .shape1 {
+            width: 50px; /* Adjust width as needed */
+            height: 50px; /* Adjust height as needed */
+            top: 20px; /* Adjust top position as needed */
+            left: 50px; /* Adjust left position as needed */
+        }
+
+        .shape2 {
+            width: 80px; /* Adjust width as needed */
+            height: 80px; /* Adjust height as needed */
+            top: 100px; /* Adjust top position as needed */
+            left: 150px; /* Adjust left position as needed */
+        }
+    </style>
+</head>
+<body>
+    <!-- Added the <img> tag for the user image -->
+    <img src="path/to/your/image/file.jpg" alt="User Image" width="100" height="100">
+
+    <h1>Hello, I'm [Nicole Makumborenga]</h1>
+    <p>I do [Web Development/Software Development].</p>
+    
+    <!-- Added the <bds> tag without a closing slash -->
+    <bds></bds>
+
+    <!-- Added the user contact section with a clickable link -->
+    <div class="user-contact-section">
+        <p>Contact me at: <a href="https://app.bigdevsoon.me/projects/business-card-c349ce7b-5e4c-4ac3-b3c7-6335467d6884/user-contact-section">External Website</a></p>
     </div>
-  </body>
+
+    <!-- Added the user image section -->
+    <div class="card/user-image">
+        <!-- Add your user image here -->
+        <img src="/workspaces/Business-card/path/to/your/image/file.jpg" alt="User Image" width="200" height="200">
+    </div>
+
+    <!-- Added the user info section -->
+    <div class="user-info-section">
+        <p>Additional information about me goes here...</p>
+    </div>
+
+    <!-- Added the card/absolute-positioned-shapes section -->
+    <div class="card/absolute-positioned-shapes">
+        <div class="shape1"></div>
+        <!-- Add more shapes if needed -->
+    </div>
+</body>
 </html>
+
